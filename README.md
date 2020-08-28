@@ -1,4 +1,4 @@
-# AREP_ArquitecturasdeServidores_Lab04
+# Taller de Arquitecturas de Servidores de Aplicaciones, Meta protocolos de objetos, Patrón IoC, Reflexión
 ## Requisitos
 * Git
 * Java 8
@@ -56,7 +56,5 @@ public class HelloController {
 
 2. El proyecto se debe almacenar en la cuenta de GitHub del estudiante.
 
-## License
-[MIT License ](/LICENSE)
 ## Autor
 Andrés Felipe Quintero Duque
